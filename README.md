@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Azure Sentinal (SIEM)](https://github.com/sifatmohossain/ActiveDirectoryLab)
+  - [Azure Sentinal (SIEM)](https://github.com/sifatmohossain/AzureSentinel-SIEM-)
   - [Active Directory Home Lab](https://github.com/sifatmohossain/ActiveDirectoryLab)
   - [Vulnerability Management with Nessus](https://github.com/sifatmohossain/ActiveDirectoryLab)
   
