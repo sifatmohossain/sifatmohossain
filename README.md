@@ -2,12 +2,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [Azure Sentinal (SIEM)](https://github.com/sifatmohossain/ActiveDirectoryLab)
   - [Active Directory Home Lab](https://github.com/sifatmohossain/ActiveDirectoryLab)
-
+  - [Vulnerability Management with Nessus](https://github.com/sifatmohossain/ActiveDirectoryLab)
+  
 <h2>👨‍💻 QA Automation Project</h2>
 
   - [Express Web Automation](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>📝 Certifcations:</h2>
 
-- [Express Web Automation](https://www.youtube.com/watch?v=a83ASGn_V_s)
+ - [Google ](https://www.youtube.com/watch?v=a83ASGn_V_s)
