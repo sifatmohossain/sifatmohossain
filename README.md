@@ -4,7 +4,7 @@
 
   - [Azure Sentinal (SIEM)](https://github.com/sifatmohossain/AzureSentinel-SIEM-)
   - [Active Directory Home Lab](https://github.com/sifatmohossain/ActiveDirectoryLab)
-  - [Vulnerability Management with Nessus](https://github.com/sifatmohossain/ActiveDirectoryLab)
+  - [Vulnerability Management with Nessus](https://github.com/sifatmohossain/-VulnerabilityManagement)
   
 <h2>👨‍💻 QA Automation Project</h2>
 
