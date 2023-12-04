@@ -8,7 +8,7 @@
   
 <h2>👨‍💻 QA Automation Project</h2>
 
-  - [Express Web Automation](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [Express Web Automation](https://github.com/sifatmohossain/QAExpressAutomation/tree/main)
 
 <h2>📝 Certifcations:</h2>
 
