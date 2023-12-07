@@ -12,4 +12,5 @@
 
 <h2>📝 Certifcations:</h2>
 
- - [Google ](https://www.youtube.com/watch?v=a83ASGn_V_s)
+ - [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/e0fc9771-4c86-4272-b7d0-7666a321fc46/public_url)
+ - [ICS-100,Introduction to Incident Command System](https://i.imgur.com/X6BF47y.png)
